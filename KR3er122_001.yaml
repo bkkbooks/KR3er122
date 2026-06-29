@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3er122/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫經大旨
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er122.xml
+hash: sha256:348309544fc0cddfa1b66e17c9e9b2f31835d2eb7c100612ce02c3c96f88bfe5

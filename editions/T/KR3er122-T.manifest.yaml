@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3er122/T/v1
+canonical_location: https://kanripo.org/bkk/KR3er122/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫經大旨
+  identifiers:
+    krp: KR3er122
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er122.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3er122_001-T.yaml, hash: 'sha256:348309544fc0cddfa1b66e17c9e9b2f31835d2eb7c100612ce02c3c96f88bfe5'}
+table_of_contents: []
+hash: sha256:a500bdb8ea3cc692857727e57c2a411297e5ae9fec66bb59a309fa1d7ef01824
