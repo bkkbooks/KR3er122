@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er122/v1
 canonical_location: https://kanripo.org/bkk/KR3er122/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫經大旨
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3er122_001.yaml
     hash: sha256:348309544fc0cddfa1b66e17c9e9b2f31835d2eb7c100612ce02c3c96f88bfe5
 table_of_contents: []
-hash: sha256:9a32c9c57bbae3a0fa89e9435c2ee1764d9801ecd558e8acea79c4766eff1c1f
+hash: sha256:89b79316070a0609ce688be218703d27172cfa23ba342e64fd92655d624f5d06
